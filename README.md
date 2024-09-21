@@ -21,7 +21,7 @@
 
 ## UX Writing
 - [Agents Onboarding Flow](/ux_writing/agent_onboarding/agent_onboarding.md)
-- [Sales Bot Setup Flow](/ux_writing/sales_bot_setup/sales_bot_setup.md)
+- [Sales Bot Setup Flow](/ux_writing/sales_bot_setup/.md)
 
 ## Videos
 - [Close Deals Faster with Einstein Activity Capture](https://youtu.be/JOheM3ff9LM?si=Wf-gsk8W-gXJlL0w)

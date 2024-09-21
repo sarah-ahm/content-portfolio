@@ -1,6 +1,0 @@
-![Sales Bot landing page in Salesforce Setup](/ux_writing/sales_bot_setup/sales_bot_setup_1.png)
-![Step one of sales bot guided setup](/ux_writing/sales_bot_setup/sales_bot_setup_2.png)
-![Step two of sales bot guided setup](/ux_writing/sales_bot_setup/sales_bot_setup_3.png)
-![Step three of sales bot guided setup](/ux_writing/sales_bot_setup/sales_bot_setup_4.png)
-![Step four of sales bot guided setup](/ux_writing/sales_bot_setup/sales_bot_setup_5.png)
-![Sales bot setup assistant](/ux_writing/sales_bot_setup/sales_bot_setup_6.png)
