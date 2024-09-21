@@ -20,7 +20,8 @@
 - [Learn About Email and Calendar Integration Tools Unit](https://trailhead.salesforce.com/content/learn/modules/email-and-calendar-integrations-quick-look/learn-about-email-and-calendar-integration-tools)
 
 ## UX Writing
-- 
+- [Agentforce Onboarding Flow](/ux_writing/agent_onboarding/)
+- [Sales Bot Setup Flow](/ux_writing/sales_bot_setup/)
 
 ## Videos
 - [Close Deals Faster with Einstein Activity Capture](https://youtu.be/JOheM3ff9LM?si=Wf-gsk8W-gXJlL0w)
