@@ -1,0 +1,8 @@
+[Agents landing page in Salesforce Setup](/ux_writing/agent_onboarding/agent_onboarding_1.png)
+[First step of agents guided setup flow](/ux_writing/agent_onboarding/agent_onboarding_2.png)
+[Second step of agents guided setup flow](/ux_writing/agent_onboarding/agent_onboarding_3.png)
+[Third step of agents guided setup flow](/ux_writing/agent_onboarding/agent_onboarding_4.png)
+[Fourth step of agents guided setup flow](/ux_writing/agent_onboarding/agent_onboarding_5.png)
+[Agent Builder page after guided setup flow with first walkthrough step](/ux_writing/agent_onboarding/agent_onboarding_6.png)
+[Agent Builder page with second walkthrough step](/ux_writing/agent_onboarding/agent_onboarding_7.png)
+[Agent Builder page with third walkthrough step](/ux_writing/agent_onboarding/agent_onboarding_8.png)
