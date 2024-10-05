@@ -1,3 +1,12 @@
+# Introducing Users to Salesforce AI Agents
+Creating a streamlined onboarding experience for Agentforce, a platform where users can create and manage Salesforce AI agents.
+
+## Skills
+Content Design, Information Architecture
+
+## Collaborators
+Product Managers, Software Engineers, UX Designers, Conversation Designers, Leadership
+
 ![Agents landing page in Salesforce Setup](/ux_writing/agent_onboarding/agent_onboarding_1.png)
 ![First step of agents guided setup flow](/ux_writing/agent_onboarding/agent_onboarding_2.png)
 ![Second step of agents guided setup flow](/ux_writing/agent_onboarding/agent_onboarding_3.png)
