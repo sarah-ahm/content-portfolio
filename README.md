@@ -1,5 +1,5 @@
 # Sarah's Content Samples
-Hey! I'm Sarah, a writer with front-end chops, an eye for design, and an open mind. These days I'm a Senior Technical Writer at Salesforce. I collaborate with stakeholders to craft UI text, onboarding flows, documentation, and other end-to-end content for generative AI features.
+Hey! I'm Sarah, a writer with front-end chops, an eye for design, and an open mind. These days, I'm a Senior Technical Writer at Salesforce. I collaborate with stakeholders to craft UI text, onboarding flows, documentation, and other wordy things for Salesforce's generative AI platform.
 
 ## Product Documentation
 - [Automate Sales Outreach with a Buyer Assistant](https://help.salesforce.com/s/articleView?id=sf.sales_einstein_bots.htm&type=5)
