@@ -1,5 +1,5 @@
 # Sarah's Content Samples
-Hey! I'm Sarah, a writer with front-end chops, an eye for design, and an open mind. These days, I'm a Staff Technical Writer at Salesforce. I collaborate with stakeholders to craft UI text, onboarding flows, documentation, and other wordy things for Salesforce's generative AI platform.
+Hey! I'm Sarah, a writer with front-end chops, an eye for design, and an open mind. These days, I'm a Staff Technical Writer at Salesforce. I collaborate with stakeholders to craft UI text, onboarding flows, documentation, and other wordy things for Salesforce's generative AI features. I create style guidelines and internal enablement for emerging technologies.
 
 ## Product Documentation
 - [Create AI Agents from Einstein Bots (Beta)](https://help.salesforce.com/s/articleView?id=service.bots_service_create_agent_from_bot.htm&type=5)
